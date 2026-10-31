@@ -1,0 +1,9 @@
+.openai/
+build_data.py
+*.json
+*.csv
+*.zip
+*.tar*
+node_modules/
+__pycache__/
+qa/
